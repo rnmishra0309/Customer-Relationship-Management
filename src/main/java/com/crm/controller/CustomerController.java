@@ -1,4 +1,4 @@
-package com.crm.config.controller;
+package com.crm.controller;
 
 import java.util.List;
 
